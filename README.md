@@ -27,4 +27,6 @@ Entity: Battery | Sentiment: Negative
 **Phase 3: The Insight Dashboard**
 We will create a barplot or Frequency chart that shows which product features are causing the most frustration.
 
-Thank you. 
+Thank you.
+Do Code.
+
